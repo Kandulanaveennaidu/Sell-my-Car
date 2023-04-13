@@ -24,6 +24,5 @@
 </a>
 </p>
 
-### Client Site Repo: [https://github.com/tahsinkarim/sell-my-car](https://github.com/tahsinkarim/sell-my-car)
 
 ### Live site: [https://sell-my-car-mern.web.app/](https://sell-my-car-mern.web.app/)
